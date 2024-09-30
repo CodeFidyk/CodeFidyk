@@ -5,9 +5,6 @@ This is the space where I spend most of my time where, imagination and creativit
 
 💬 Ask me about anything here
 
-📫 How to reach me: @francasmp;✌️
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/francasmp/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fidyk-046989218/)
 
 ![Fidyk GitHub stats](https://github-readme-stats.vercel.app/api?username=DevFidyk&show_icons=true&theme=dracula)
